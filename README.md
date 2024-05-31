@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/hello-world-docker-action@v2
+uses: MightyEvolved/hello-world-docker-action@main
 with:
   who-to-greet: 'Mona the Octocat'
